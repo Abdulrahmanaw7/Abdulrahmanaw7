@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a1a1a&height=220&section=header&text=Abdulrahman%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20.NET%20Software%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=B22234&center=true&vCenter=true&width=700&lines=Building+scalable+.NET+microservices;ASP.NET+Core+%7C+EF+Core+%7C+Clean+Architecture;Payments+%26+Digital+Wallet+Systems+%40+Paysky;gRPC+%2B+REST+%2B+YARP+API+Gateways;Docker+%2F+Kubernetes+%2F+Azure+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=B22234&center=true&vCenter=true&width=700&lines=Building+scalable+.NET+microservices;ASP.NET+Core+%7C+EF+Core+%7C+Clean+Architecture;Payments+%26+Digital+Wallet+Systems;gRPC+%2B+REST+%2B+YARP+API+Gateways;Docker+%2F+Kubernetes+%2F+Azure+DevOps" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@
 ## 👋 About Me
 
 - 🚀 **Senior .NET Software Developer** with 6+ years of experience designing scalable backend systems.
-- 💳 Currently building **digital wallet & payment microservices** at **Paysky** — payment orchestration, wallet flows.
+- 💳 Experienced in building **digital wallet & payment microservices** — payment orchestration, wallet flows, and API Gateway routing.
 - 🏗️ I design backend systems with **Clean / Onion Architecture**, **SOLID principles**, and **Repository Pattern**.
 - 🔗 Comfortable across **REST, gRPC, and event-driven** service-to-service communication, with **RabbitMQ** for async messaging.
 - 🌐 Working with API Gateway routing using **YARP** and **Ocelot**.
@@ -78,6 +78,7 @@
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apidog-B22234?style=flat-square&logo=apidog&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 
 **Frontend**
@@ -113,9 +114,9 @@
 
 <br/>
 
-## 💼 Currently Working On
+## 💼 What I'm Focused On
 
-> Modernizing monolithic modules into independent microservices for a digital wallet platform — with YARP-based gateway routing and REST/gRPC communication between services.
+> Designing and modernizing backend systems into independent microservices — with clean service boundaries, API Gateway routing, and REST/gRPC communication between services.
 
 <br/>
 
