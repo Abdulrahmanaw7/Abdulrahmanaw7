@@ -89,15 +89,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahmanaw7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=1F6FB2&icon_color=00C6FF&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahmanaw7&layout=compact&theme=tokyonight&hide_border=true&title_color=1F6FB2&text_color=c9d1d9&bg_color=0d1117" width="35%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdulrahmanaw7&theme=tokyonight&hide_border=true&background=0d1117&ring=1F6FB2&fire=00C6FF&currStreakLabel=00C6FF" width="60%"/>
-</div>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=Abdulrahmanaw7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=1F6FB2&icon_color=00C6FF&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdulrahmanaw7&layout=compact&theme=tokyonight&hide_border=true&title_color=1F6FB2&text_color=c9d1d9&bg_color=0d1117" width="35%"/>
 <br/>
 
 ## 🐍 Contribution Snake
