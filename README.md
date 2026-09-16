@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FB2,100:00C6FF&height=220&section=header&text=Abdulrahman%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20.NET%20Software%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a1a1a&height=220&section=header&text=Abdulrahman%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20.NET%20Software%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1F6FB2&center=true&vCenter=true&width=700&lines=Building+scalable+.NET+microservices;ASP.NET+Core+%7C+EF+Core+%7C+Clean+Architecture;Payments+%26+Digital+Wallet+Systems+%40+Paysky;gRPC+%2B+REST+%2B+YARP+API+Gateways;Docker+%2F+Kubernetes+%2F+Azure+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=B22234&center=true&vCenter=true&width=700&lines=Building+scalable+.NET+microservices;ASP.NET+Core+%7C+EF+Core+%7C+Clean+Architecture;Payments+%26+Digital+Wallet+Systems+%40+Paysky;gRPC+%2B+REST+%2B+YARP+API+Gateways;Docker+%2F+Kubernetes+%2F+Azure+DevOps" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/Abdulrahmanaw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Abdulrahmanaw7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Abdulrahmanaw7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-1F6FB2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cairo,_Egypt-B22234?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 ## 👋 About Me
 
 - 🚀 **Senior .NET Software Developer** with 6+ years of experience designing scalable backend systems.
-- 💳 Currently building **digital wallet & payment microservices** at **Paysky** — payment orchestration, wallet flows.
+- 💳 Currently building **digital wallet & payment microservices** at **Paysky** — payment orchestration, wallet flows, and API Gateway routing with YARP.
 - 🏗️ I design backend systems with **Clean / Onion Architecture**, **SOLID principles**, and **Repository Pattern**.
 - 🔗 Comfortable across **REST, gRPC, and event-driven** service-to-service communication, with **RabbitMQ** for async messaging.
 - 🌐 Working with API Gateway routing using **YARP** and **Ocelot**.
@@ -43,8 +43,8 @@
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/YARP-1F6FB2?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ocelot-1F6FB2?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/YARP-B22234?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ocelot-B22234?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/IdentityServer4-000000?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/MediatR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -54,16 +54,16 @@
 <img src="https://img.shields.io/badge/FluentValidation-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Serilog-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Polly-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hangfire-1F6FB2?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hangfire-B22234?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
 **Architecture & Patterns**
 <br/>
-<img src="https://img.shields.io/badge/Clean_Architecture-1F6FB2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Onion_Architecture-1F6FB2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microservices-1F6FB2?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOLID-1F6FB2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Design_Patterns-1F6FB2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-B22234?style=flat-square"/>
+<img src="https://img.shields.io/badge/Onion_Architecture-B22234?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microservices-B22234?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOLID-B22234?style=flat-square"/>
+<img src="https://img.shields.io/badge/Design_Patterns-B22234?style=flat-square"/>
 
 **Data**
 <br/>
@@ -95,12 +95,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Abdulrahmanaw7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=1F6FB2&icon_color=00C6FF&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdulrahmanaw7&layout=compact&theme=tokyonight&hide_border=true&title_color=1F6FB2&text_color=c9d1d9&bg_color=0d1117" width="35%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Abdulrahmanaw7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=B22234&icon_color=D4A017&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdulrahmanaw7&layout=compact&theme=tokyonight&hide_border=true&title_color=B22234&text_color=c9d1d9&bg_color=0d1117" width="35%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdulrahmanaw7&theme=tokyonight&hide_border=true&background=0d1117&ring=1F6FB2&fire=00C6FF&currStreakLabel=00C6FF" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=Abdulrahmanaw7&theme=tokyonight&hide_border=true&background=0d1117&ring=B22234&fire=D4A017&currStreakLabel=D4A017" width="60%"/>
 </div>
 
 <br/>
@@ -115,7 +115,7 @@
 
 ## 💼 Currently Working On
 
-> Modernizing monolithic modules into independent microservices for a digital wallet platform — with gateway routing and REST/gRPC communication between services.
+> Modernizing monolithic modules into independent microservices (Payment Service, Partner Wallet, API Gateway) for a digital wallet platform — with YARP-based gateway routing and REST/gRPC communication between services.
 
 <br/>
 
@@ -123,11 +123,11 @@
 
 ### 📫 Let's Connect
 
-<a href="mailto:Abdulrahmanaw7@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-1F6FB2?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<a href="mailto:Abdulrahmanaw7@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-B22234?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 <a href="https://linkedin.com/in/Abdulrahmanaw"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:1F6FB2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:8B0000&height=100&section=footer" width="100%"/>
 
 </div>
