@@ -51,6 +51,11 @@
 <img src="https://img.shields.io/badge/AutoMapper-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/FluentValidation-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Serilog-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Polly-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hangfire-1F6FB2?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
 **Architecture & Patterns**
 <br/>
@@ -89,8 +94,15 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Abdulrahmanaw7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=1F6FB2&icon_color=00C6FF&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdulrahmanaw7&layout=compact&theme=tokyonight&hide_border=true&title_color=1F6FB2&text_color=c9d1d9&bg_color=0d1117" width="35%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abdulrahmanaw7&theme=tokyonight&hide_border=true&background=0d1117&ring=1F6FB2&fire=00C6FF&currStreakLabel=00C6FF" width="60%"/>
+</div>
+
 <br/>
 
 ## 🐍 Contribution Snake
@@ -98,8 +110,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdulrahmanaw7/Abdulrahmanaw7/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-<sub>⚙️ Snake animation needs a one-time GitHub Actions setup (see note below) — it won't render until that's added to this repo.</sub>
 
 <br/>
 
