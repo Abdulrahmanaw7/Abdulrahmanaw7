@@ -22,7 +22,7 @@
 ## 👋 About Me
 
 - 🚀 **Senior .NET Software Developer** with 6+ years of experience designing scalable backend systems.
-- 💳 Currently building **digital wallet & payment microservices** at **Paysky** — payment orchestration, wallet flows, and API Gateway routing with YARP.
+- 💳 Currently building **digital wallet & payment microservices** at **Paysky** — payment orchestration, wallet flows.
 - 🏗️ I design backend systems with **Clean / Onion Architecture**, **SOLID principles**, and **Repository Pattern**.
 - 🔗 Comfortable across **REST, gRPC, and event-driven** service-to-service communication, with **RabbitMQ** for async messaging.
 - 🌐 Working with API Gateway routing using **YARP** and **Ocelot**.
@@ -115,7 +115,7 @@
 
 ## 💼 Currently Working On
 
-> Modernizing monolithic modules into independent microservices (Payment Service, Partner Wallet, API Gateway) for a digital wallet platform — with YARP-based gateway routing and REST/gRPC communication between services.
+> Modernizing monolithic modules into independent microservices for a digital wallet platform — with YARP-based gateway routing and REST/gRPC communication between services.
 
 <br/>
 
